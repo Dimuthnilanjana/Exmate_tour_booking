@@ -2,7 +2,7 @@
 
 Welcome to ExMate Travel Booking – Your Ultimate Travel Companion! 🌍✈️
 
-![ExMate Travel Booking](imag.jpg)
+![ExMate Travel Booking](img.jpg)
 
 
 ## Introduction
