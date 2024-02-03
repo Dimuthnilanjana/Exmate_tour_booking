@@ -2,6 +2,9 @@
 
 Welcome to ExMate Travel Booking – Your Ultimate Travel Companion! 🌍✈️
 
+![ExMate Travel Booking](Screenshot 2024-01-28 224101.png)
+
+
 ## Introduction
 
 ExMate Travel Booking is a comprehensive web application built with HTML, CSS, and PHP, designed to streamline the hotel and tour package booking process. This README provides an overview of the project, setup instructions, and key features.
